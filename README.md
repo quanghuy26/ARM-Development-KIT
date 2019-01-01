@@ -26,6 +26,11 @@ Thuộc dòng hiệu suất cao ARM Cortex-M4 32bit STM32F4 của STMicroelectro
 
 . ![Screenshot](Ketqua.jpg)
 
+
+**Mô hình chung**
+
+. ![Screenshot](idea.png)
+
 **Chức năng trên KIT**
 
 - GENERAL PURPOSE INPUT/OUTPUT (GPIO)
