@@ -20,7 +20,11 @@ Thuộc dòng hiệu suất cao ARM Cortex-M4 32bit STM32F4 của STMicroelectro
 
 • Ngoài ra còn hỗ trợ DMA, 1 USB OTG FS và 1 USB OTG FS/HS, Ethenet, camera.
 
+. ![Screenshot](chipstm.png)
+
 **KIT phát triển**
+
+. ![Screenshot](Ketqua.jpg)
 
 **Chức năng trên KIT**
 
@@ -47,9 +51,16 @@ Thuộc dòng hiệu suất cao ARM Cortex-M4 32bit STM32F4 của STMicroelectro
 
 ## Giới thiệu về các SHIELD
 ### SHIELD LED 7SEG
+. ![Screenshot](led7seg.PNG)
 ### SHIELD LED MATRIX
+. ![Screenshot](ledmatrix.PNG)
 ### SHIELD DS1307 – SD CARD
+. ![Screenshot](ds1307.PNG)
 ### SHIELD HC05 – MPU6050
+. ![Screenshot](hc05.PNG)
 ### SHIELD ADC JOYSTICK
+. ![Screenshot](joystick.PNG)
 ### SHIELD HBRIDGE
+. ![Screenshot](hbridge.PNG)
 ### MÀN HÌNH TFT LCD SPI
+. ![Screenshot](tft.PNG)
