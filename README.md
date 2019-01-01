@@ -20,7 +20,7 @@ Thuộc dòng hiệu suất cao ARM Cortex-M4 32bit STM32F4 của STMicroelectro
 
 • Ngoài ra còn hỗ trợ DMA, 1 USB OTG FS và 1 USB OTG FS/HS, Ethenet, camera.
 
-. ![Screenshot](chipstm.png)
+. ![Screenshot](chipstm.PNG)
 
 **KIT phát triển**
 
